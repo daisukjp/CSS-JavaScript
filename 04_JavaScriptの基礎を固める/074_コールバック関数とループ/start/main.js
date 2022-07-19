@@ -1,5 +1,9 @@
 // const arry = [1,2,3,4,5];
 
+
+// for(let i = 0; 0 < Array.length; i++) {
+//     console.log(array[i]);
+// }
 // function foreach(ary) {
 //     for(let i = 0; i < ary.length; i++) {
 //         console.log(ary[i]);

@@ -10,8 +10,8 @@ function reduce(arry, callback, defaultValue) {
     let accu = defaultValue;
 
     for(let i = 0; i < arry.length; i++) {
-        let curr = arry[i];
-        accu = callback(accu, curr);
+        let currn = arry[i];
+        accu = callback(accu, currn);
     }
 
     return accu;
